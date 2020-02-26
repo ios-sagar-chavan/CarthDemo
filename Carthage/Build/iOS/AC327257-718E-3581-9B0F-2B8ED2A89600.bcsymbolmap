@@ -1,0 +1,37 @@
+BCSymbolMap Version: 2.0
+_$SSSSgWOe
+_$S5GSKit16GSViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo
+_$S5GSKit16GSViewControllerC5coderACSgSo7NSCoderC_tcfcTo
+_$S5GSKitMXM
+_$S5GSKit16GSViewControllerCML
+_$S5GSKit16GSViewControllerCMf
+_symbolic ____ 5GSKit16GSViewControllerC
+_symbolic So16UIViewControllerC
+_$S5GSKit16GSViewControllerCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_GSKit
+__swift_FORCE_LOAD_$_swiftFoundation_$_GSKit
+__swift_FORCE_LOAD_$_swiftDarwin_$_GSKit
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_GSKit
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_GSKit
+__swift_FORCE_LOAD_$_swiftDispatch_$_GSKit
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_GSKit
+__swift_FORCE_LOAD_$_swiftCoreImage_$_GSKit
+__swift_FORCE_LOAD_$_swiftMetal_$_GSKit
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_GSKit
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 10.0.0 (clang-1000.11.45.1)
+-emit-bc /Users/sagarchavan/Documents/Project/Swift-POC/iOS-CD-POCs/CarthDemo/GSKit/GSKit/GSViewController.swift -emit-module-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSKit.swiftmodule -emit-module-doc-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSKit.swiftdoc -serialize-diagnostics-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSKit-master.dia -emit-objc-header-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSKit-Swift.h -emit-dependencies-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSKit-master.d -target arm64-apple-ios12.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk -I /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/BuildProductsPath/Release-iphoneos -F /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/BuildProductsPath/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/sagarchavan/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -swift-version 4 -O -serialize-debugging-options -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/GSKit-generated-files.hmap -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/GSKit-own-target-headers.hmap -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/GSKit-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/GSKit-project-headers.hmap -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/DerivedSources/arm64 -Xcc -I/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/sagarchavan/Documents/Project/Swift-POC/iOS-CD-POCs/CarthDemo/GSKit -parse-as-library -module-name GSKit -num-threads 4 -o /Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/Objects-normal/arm64/GSViewController.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/sagarchavan/Documents/Project/Swift-POC/iOS-CD-POCs/CarthDemo/GSKit
+Apple Swift version 4.2.1 effective-4.1.50 (swiftlang-1000.11.42 clang-1000.11.45.1)
+/Users/sagarchavan/Documents/Project/Swift-POC/iOS-CD-POCs/CarthDemo/GSKit/GSKit/GSViewController.swift
+deinit
+GSViewController.swift
+/Users/sagarchavan/Documents/Project/Swift-POC/iOS-CD-POCs/CarthDemo/GSKit/GSKit
+$S5GSKit16GSViewControllerCMa
+<compiler-generated>
+init
+changeBackground
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/sagarchavan/Library/Developer/Xcode/DerivedData/GSKit-atbnzuxpptoyvjgxzrjwdlujiypd/Build/Intermediates.noindex/ArchiveIntermediates/GSKit/IntermediateBuildFilesPath/GSKit.build/Release-iphoneos/GSKit.build/DerivedSources/GSKit_vers.c
